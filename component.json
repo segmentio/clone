@@ -2,7 +2,7 @@
   "name": "clone",
   "version": "0.1.0",
   "dependencies": {
-    "component/type": "*"
+    "segmentio/type": "1.0.1"
   },
   "devDependencies": {
     "visionmedia/mocha": "*",
